@@ -21,4 +21,4 @@ I am currently a Ph.D. student (since September 2021) in Artificial Intelligence
 * School Email: soark@ajou.ac.kr
 * Wechat: kyen77-88_
 
-##### 子不教，父之过.
+########### 子不教，父之过.
