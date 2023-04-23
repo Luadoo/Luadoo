@@ -1,4 +1,4 @@
-### 👋👋 Hello there, I'm Jie Xu
+## 👋👋 Hello there, I'm Jie Xu
 
 ## Latent Representation
 
