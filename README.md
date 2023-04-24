@@ -3,7 +3,7 @@
 ## Latent Representation
 
 
-I am currently a Ph.D. student (since September 2021) in Artificial Intelligence at Ajou University, Republic of Korea, under the supervision of Prof. Wonjun Hwang. I obtained my BS degree in Telecommunications from Jeju National University and my MS degree in Computer Science and Engineering from the same university. During my Ph.D. research, my interests lie in the field of neural network quantization and knowledge distillation for image analysis, with a focus on deployment on hardware, including end-to-end smart devices.
+I am currently a Ph.D. student in Artificial Intelligence at Ajou University, Republic of Korea, since September 2021, under the supervision of Prof. Wonjun Hwang. Before that, I obtained my BS degree in Telecommunications from Jeju National University and my MS degree in Computer Science and Engineering. During my Ph.D. research, my interests lie in the field of neural network quantization and knowledge distillation for image analysis, with a focus on deployment on hardware, including end-to-end smart devices.
 
 ## Study by Coursera Course
 * Neural Networks and Deep Learning - - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
