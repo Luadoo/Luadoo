@@ -19,7 +19,7 @@ And also, I love Mountaineering 🗻 and Photography 📸.
 * Korean High Level
 * Chinese Mother tongue
 
-## Build Fully Connected Layers
+## Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
 * Wechat: kyen77-88_
 
