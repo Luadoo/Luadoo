@@ -24,5 +24,5 @@ And also, I love Mountaineering 🗻 and Photography 📸. I have visited my hom
 ## Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
-* DatasDatas座右铭: The toxic people, get out of my life! ( You are 人生过客！)
+* ⚡座右铭: The toxic people, get out of my life! ( You are 人生过客！)⚡
 
