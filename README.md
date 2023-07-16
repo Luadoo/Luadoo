@@ -20,6 +20,7 @@ And also, I love Mountaineering 🗻 and Photography 📸. I have visited my hom
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
+* My Chinese name: 徐桀
 
 ## Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
