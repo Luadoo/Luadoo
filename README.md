@@ -25,6 +25,6 @@ And also, I love Mountaineering 🗻 and Photography 📸. I have visited my hom
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
 * Office: Ajou University, Paldal Hall, 913-2 room
-* 座右铭: ⚡ 🤣   ![MuaKissGIF](https://github.com/Luadoo/Luadoo/assets/58927660/3c108936-1a60-49f0-9515-7c8bba8bc37e)
+* 座右铭: ⚡ 🤣 Do we write papers that need relationships?  ![MuaKissGIF](https://github.com/Luadoo/Luadoo/assets/58927660/3c108936-1a60-49f0-9515-7c8bba8bc37e)
 
 
