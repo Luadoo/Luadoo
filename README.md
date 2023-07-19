@@ -1,6 +1,6 @@
 # 👋👋 Hello there, I'm Jie Xu
 
-## Latent Representation
+## 1) Latent Representation
 
 
 Nice to meet you! 
@@ -11,20 +11,20 @@ And also, I love Mountaineering 🗻 and Photography 📸. I have visited my hom
 
 ![wo(1)](https://github.com/Luadoo/Luadoo/assets/58927660/6dca96d0-d4c3-438b-8cce-0f79247e2c27)
 
-## Study by Coursera Course
+## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
 * Machine Learning - - Andrew Ng
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - - Andrew Ng
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
 * TinyML and Efficient Deep Learning - MIT 6s965-fall 2022 open tutorial
 
-## Languages
+## 3) Languages
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
 * My Chinese name: 徐桀
 
-## Building Fully Connected Layers
+## 4) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
 * Office: Ajou University, Paldal Hall, 913-2 room
