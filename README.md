@@ -7,7 +7,7 @@ Nice to meet you!
 
 I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. I have been under the supervision of Prof. Wonjun Hwang since September 2021. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation using a variational Bayesian Learning approach method for image analysis. Before that, I obtained a B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021.
 
-My recent research topic: Uncertainty-aware Binary Neural Networks.
+###My recent research topic: Uncertainty-aware Binary Neural Networks.
 
 And also, I also love mountaineering 🗻 and photography 📸. I have visited mountains in my hometown, such as 'Huang Shan - 黄山', 'Zi Peng Shan - 紫蓬山', and 'Xiao Bie Shan - 小别山', all located in Anhui Province. Additionally, I've visited '한라산 - 汉拿山' three times on Jeju Island in South Korea.
 
