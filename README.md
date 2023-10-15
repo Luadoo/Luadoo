@@ -5,11 +5,11 @@
 
 Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. I have been under the supervision of Prof. Wonjun Hwang since September 2021. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation using a variational Bayesian Learning approach method for image analysis. Before that, I obtained a B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing a variational Bayesian Learning approach for image analysis. Prior to this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021.
 
 ## My recent research topic: Uncertainty-aware Binary Neural Networks.
 
-And also, I also love mountaineering 🗻 and photography 📸. I have visited mountains in my hometown, such as 'Huang Shan - 黄山', 'Zi Peng Shan - 紫蓬山', and 'Xiao Bie Shan - 小别山', all located in Anhui Province. Additionally, I've visited '한라산 - 汉拿山' three times on Jeju Island in South Korea.
+Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including 'Huang Shan - 黄山', 'Zi Peng Shan - 紫蓬山', and 'Xiao Bie Shan - 小别山', all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea.
 
 ![wo(1)](https://github.com/Luadoo/Luadoo/assets/58927660/6dca96d0-d4c3-438b-8cce-0f79247e2c27)
 
