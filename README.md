@@ -18,7 +18,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Machine Learning - - Andrew Ng
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - - Andrew Ng
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
-* TinyML and Efficient Deep Learning - MIT 6s965-fall 2022 open tutorial
+* TinyML and Efficient Deep Learning - MIT 6s965-Fall 2022 open tutorial
+* TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorial
 
 ## 3) Languages
 * English Medium Level
