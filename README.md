@@ -3,7 +3,7 @@
 ## 1) Latent Representation
 
 
-## Nice to meet you! 
+### Nice to meet you! 
 
 I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. 
 My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Prior to this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021.
