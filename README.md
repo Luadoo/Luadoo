@@ -24,7 +24,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorial (working on homework)
   
 ## 3) Techniques
-* C++, Python, TensorFlow, PyTorch, Web Developing, Android Application
+* C++, Python, TensorFlow, PyTorch, Web developing, Android application, Web crawler, Recommendation System.
   
 ## 5) Languages
 * English Medium Level
