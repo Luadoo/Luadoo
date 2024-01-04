@@ -22,14 +22,17 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
 * TinyML and Efficient Deep Learning - MIT 6s965-Fall 2022 open tutorial
 * TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorial (working on homework)
-
-## 3) Languages
+  
+##3) Techniques
+* C++, Python, TensorFlow, PyTorch, Web Developing, Android Application
+  
+## 5) Languages
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
 * My Chinese name: 徐桀
 
-## 5) Building Fully Connected Layers
+## 6) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
 * Office: Ajou University, Paldal Hall, 913-2 room
