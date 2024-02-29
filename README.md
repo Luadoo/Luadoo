@@ -5,7 +5,7 @@
 
 ### Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021. During my undergraduate studies, I received three Korean National Scholarships.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021. During my undergraduate studies, I received three Korean National Scholarships. And my Ph.D. research is supported by Brain Korea Ph.D. Scholarship.
 
 ## My recent research interests: Uncertainty-aware Binary Neural Networks.
 1. Model Compression/Acceleration: Pruning, Low-rank Approximation, Knowledge Distillation and Neural Network Quantization.
