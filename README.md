@@ -5,7 +5,7 @@
 
 ### Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Prior to this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021. During my undergraduate studies, I received three Korean National Scholarships.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021. During my undergraduate studies, I received three Korean National Scholarships.
 
 ## My recent research interests: Uncertainty-aware Binary Neural Networks.
 1. Model Compression/Acceleration: Pruning, Low-rank Approximation, Knowledge Distillation and Neural Network Quantization.
@@ -25,7 +25,7 @@ Jan 2024:  One paper on the quantization model is submitted to IJCAI 2024! (unde
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - - Andrew Ng
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
 * TinyML and Efficient Deep Learning - MIT 6s965-Fall 2022 open tutorial
-* TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorialsssww
+* TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorial
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
