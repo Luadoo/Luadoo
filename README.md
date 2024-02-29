@@ -25,7 +25,7 @@ Jan 2024:  One paper on the quantization model is submitted to IJCAI 2024! (unde
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - - Andrew Ng
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
 * TinyML and Efficient Deep Learning - MIT 6s965-Fall 2022 open tutorial
-* TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorial (working on homework)
+* TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorialsssww
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
