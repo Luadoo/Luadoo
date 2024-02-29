@@ -15,6 +15,10 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 ![wo(1)](https://github.com/Luadoo/Luadoo/assets/58927660/6dca96d0-d4c3-438b-8cce-0f79247e2c27)
 
+### Updates
+
+Jan 2024:  One paper on the quantization model is submitted to IJCAI 2024! (under review)
+
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
 * Machine Learning - - Andrew Ng
