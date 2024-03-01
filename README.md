@@ -29,7 +29,7 @@ Jan 2024:  One paper on the quantization model is submitted to IJCAI 2024! (unde
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
-*  Web developing, Android application, Web crawler, Recommendation System, QNN(quantization neural network).
+*  Web development, Android application, Web crawler, Recommendation System, QNN(quantization neural network), Computer Vision.
   
 ## 5) Languages
 * English Medium Level
