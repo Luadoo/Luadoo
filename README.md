@@ -17,7 +17,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 ## Updates
 
-Jan 2024:  One paper on the quantization model is submitted to the IEEE SPL journal (JCR Q2, IF: 3.105).
+Jan 2024:  One paper on the quantization model is submitted to the journal.
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
