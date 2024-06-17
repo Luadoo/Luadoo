@@ -5,10 +5,10 @@
 
 ### Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before this, I completed my B.E. degree in Telecommunications and an M.Sc. degree in Computer Engineering from Jeju National University in Korea in 2021. During my undergraduate studies, I received three Korean National Scholarships. And my Ph.D. research is supported by Brain Korea Ph.D. Scholarship.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before this, I completed my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University in Korea in 2021. During my undergraduate studies, I received three Korean National Scholarships. And my Ph.D. research is supported by Brain Korea Ph.D. Scholarship.
 
 ## My recent research interests: Uncertainty-aware Binary Neural Networks.
-1. Model Compression/Acceleration:  Information theoretic learning, Pruning, Low-rank Approximation, Knowledge Distillation and Binary Neural Network.
+1. Model Compression/Acceleration:  Information theoretic learning, Network Pruning, Low-rank Approximation, Knowledge Distillation, and Binary Neural Network.
 2. Image Related Tasks: Image Classification, Diffusion model.
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including 'Huang Shan - 黄山', 'Zi Peng Shan - 紫蓬山', and 'Xiao Bie Shan - 小别山', all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea.
