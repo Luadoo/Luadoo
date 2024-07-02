@@ -27,6 +27,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
 * TinyML and Efficient Deep Learning - MIT 6s965-Fall 2022 open tutorial
 * TinyML and Efficient Deep Learning - MIT 6.5940-Fall 2023 open tutorial
+* https://learn.deeplearning.ai/accomplishments/0f02e4ca-56e7-49b7-a352-56e2c73b9182?usp=sharing
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
