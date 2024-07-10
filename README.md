@@ -44,5 +44,5 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
 * Office: Ajou University, Paldal Hall, 913-2 room.
-* 正义的审判迟早会到来！
+* 
 
