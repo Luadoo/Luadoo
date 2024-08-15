@@ -32,7 +32,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
-*  Web development, Android application, Web crawler, Recommendation System, QNN(quantization neural network), Computer Vision.
+*  Web development, Android application, Web crawler, Recommendation System, QNN(quantization neural network), Computer Vision, Diffusion model.
   
 ## 5) Languages
 * English Medium Level
