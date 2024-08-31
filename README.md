@@ -39,7 +39,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
-* My Chinese name: 徐桀
+* Chinese name: 徐桀
 * Korean name: 서걸
 
 ## 6) Building Fully Connected Layers
