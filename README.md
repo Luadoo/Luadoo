@@ -44,7 +44,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 ## 6) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
-* Linkedin: https://www.linkedin.com/in/jie-xu-6a62461a1/
+* LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
 * Office: Ajou University, Paldal Hall, 913-2 room.
 * 
 
