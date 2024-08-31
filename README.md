@@ -39,6 +39,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Korean High Level
 * Chinese Mother tongue
 * My Chinese name: 徐桀
+* Korean name: 서걸
 
 ## 6) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
