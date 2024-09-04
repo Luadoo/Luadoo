@@ -35,13 +35,16 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
 * Web development, Android application, Web crawler, RL, Recommendation System, QNN(quantization neural network), Computer Vision, Diffusion model.
   
-## 5) Languages & Names
+## 5) My name &  Languages
+* Chinese name: 徐桀
+* Korean name: 서걸
+
+  
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
-* 
-* Chinese name: 徐桀
-* Korean name: 서걸
+  
+
 
 ## 6) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
