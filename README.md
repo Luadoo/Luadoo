@@ -36,7 +36,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Web development, Android application, Web crawler, RL, Recommendation System, QNN(quantization neural network), Computer Vision, Diffusion model.
   
 ## 5) My name
-* Chinese name: 徐桀
+* Chinese name: 徐杰
 * Korean name: 서걸
   
 ## 6) Languages
