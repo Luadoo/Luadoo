@@ -8,7 +8,7 @@
 I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, it was best, as I received three Korean National Scholarships. And my Ph.D. research is supported by the Brain Korea Scholarship.
 
 ### My recent research interests include uncertainty awareness of the deep compression model for diffusion models.
-1. Model Compression/Acceleration:  Information theoretic learning, Neural network Pruning, Low-rank Approximation, Knowledge Distillation, and Binary Neural Network.
+1. Model Compression/Acceleration:  Information theoretic learning, Neural network Pruning, Low-rank Approximation, Knowledge Distillation, and Binary Neural Network, Signal processing.
 2. Image-related tasks: Image classification, diffusion model.
 3. Presented in 2024.8.25 - [2024.8月报告会.pptx](https://github.com/user-attachments/files/16902694/2024.8.pptx)
 
