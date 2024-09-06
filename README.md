@@ -10,6 +10,7 @@ I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou Unive
 ### My recent research interests include uncertainty awareness of the deep compression model for diffusion models.
 1. Model Compression/Acceleration:  Information theoretic learning, Neural network Pruning, Low-rank Approximation, Knowledge Distillation, and Binary Neural Network.
 2. Image-related tasks: Image classification, diffusion model.
+3. Presented in 2024.8.25 - [2024.8月报告会.pptx](https://github.com/user-attachments/files/16902694/2024.8.pptx)
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including 'Huang Shan - 黄山', 'Zi Peng Shan - 紫蓬山', and 'Xiao Bie Shan - 小别山', all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea.
 
