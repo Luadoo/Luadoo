@@ -34,17 +34,14 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
 * Web development, Android application, Web crawler, RL, Recommendation System, QNN(quantization neural network), Computer Vision, Diffusion model.
+
   
-## 5) My name
-* Chinese name: 徐杰
-* Korean name: 서걸
-  
-## 6) Languages
+## 4) Languages
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
 
-## 7) Building Fully Connected Layers
+## 5) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
 * LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
