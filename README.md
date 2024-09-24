@@ -48,5 +48,5 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * WeChat: kyen77-88_
 * LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
 * Office: Ajou University, Paldal Hall, 913-2 room.
-* 有缘分吗？
+* 
 
