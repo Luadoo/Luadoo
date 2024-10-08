@@ -49,4 +49,18 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
 * Office: Ajou University, Paldal Hall, 913-2 room.
 * 
+## 6) Methods:
+1. QAT: LSQ(activation quantization), DSQ, QIL, LQW, LQ-Nets, PACT, DoReFa-Net, LSQ++, PACT, MQBench, Quantization Networks,
 
+2. PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ, 
+
+3. BNN - BNN Evolution-based algorithm
+4. KD + BNN
+5. Pruning + BNN
+6. 量化模型部署/模型转换架构
+parser - optimizer - calibrator - quantizer - debugger 
+
+7. Previous MPQ methods:
+1.) Search-based: high computation cost of NAS or RL
+2.) Metric-based: sub-optimal generated MPQ strategy(需要人为调控)
+3.) Optimization-based: inaccurate gradient approximation
