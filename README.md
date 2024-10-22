@@ -64,4 +64,4 @@ parser - optimizer - calibrator - quantizer - debugger
 1.) Search-based: high computation cost of NAS or RL
 2.) Metric-based: sub-optimal generated MPQ strategy(需要人为调控)
 3.) Optimization-based: inaccurate gradient approximation
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Luadoo/Luadoo/edit/main/README.md"><img src="https://github.com/Luadoo/Luadoo/edit/main/README.md" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Luadoo&abbreviated=true;color=green" style="for-the-badge: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Luadoo&abbreviated=true;color=green" style="for-the-badge: 100%;"></a>
