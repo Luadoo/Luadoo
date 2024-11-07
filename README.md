@@ -58,10 +58,10 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 5. 量化模型部署/模型转换架构:
 parser - optimizer - calibrator - quantizer - debugger 
 
-7. Previous MPQ methods:
-1.) Search-based: high computation cost of NAS or RL
-2.) Metric-based: sub-optimal generated MPQ strategy(需要人为调控)
-3.) Optimization-based: inaccurate gradient approximation
+## 7. Previous MPQ methods:
+1. Search-based: high computation cost of NAS or RL
+2. Metric-based: sub-optimal generated MPQ strategy(需要人为调控)
+3. Optimization-based: inaccurate gradient approximation
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>
