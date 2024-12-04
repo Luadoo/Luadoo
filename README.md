@@ -31,6 +31,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * For learning the Diffusion model: https://learn.deeplearning.ai/accomplishments/0f02e4ca-56e7-49b7-a352-56e2c73b9182?usp=sharing
 * Attention on 2024-WAIC technique speech
 * Learned Sensetime OpenPPL
+* Quantization in depth: https://learn.deeplearning.ai/accomplishments/e57f56f4-46d8-49c1-9910-9e5f9f9f479b
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
