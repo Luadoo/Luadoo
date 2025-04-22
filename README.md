@@ -4,15 +4,15 @@
 
 ### Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the AJOUCVPR Lab. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, it was best, as I received three Korean National Scholarships.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the AJOUCVPR Lab. My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, it was the best, as I received three Korean National Scholarships.
 
-### CV : [徐杰-AI博士实习生.pdf](https://github.com/user-attachments/files/19722806/-AI.pdf)
+
 
 
 ### My recent research interests include uncertainty awareness of the deep compression model for diffusion models.
 1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal processing.
-2. Image-related tasks: Image classification, diffusion model.
-3. Presented in 2024.8.25 - [2024.8月报告会.pptx](https://github.com/user-attachments/files/16902694/2024.8.pptx)
+2. Image-related tasks: Image classification, Large Language Model with quantization model.
+3. Presented at the 2024.8.25 seminar.
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huang Shan - 黄山, Zi Peng Shan - 紫蓬山, and Xiao Bie Shan - 小别山, all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea.
 
@@ -38,7 +38,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
   
 ## 3) Techniques
 * C++, Python, TensorFlow(a little), PyTorch, Matrix.
-* Web development, Android application, Web crawler, RL, Recommendation System, QNN(quantization neural network), Computer Vision, Diffusion model.
+* Web development, Android application, Web crawler, Reinforcement Learning, Recommendation System, QNN(quantization neural network), LLM.
 
   
 ## 4) Languages
