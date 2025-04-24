@@ -69,4 +69,4 @@ parser - optimizer - calibrator - quantizer - debugger
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>
-
+#做人，如果是“穷”问题，请自行解决，父母，亲戚，朋友不是你用来解决这个问题的工具！
