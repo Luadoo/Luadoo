@@ -69,4 +69,4 @@ parser - optimizer - calibrator - quantizer - debugger
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>
-   
+# 친구야 죽을래?
