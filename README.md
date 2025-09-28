@@ -23,6 +23,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * April 2025: Progressive Quantization: Enhancing Stability in Binary Neural Networks (submission to MTA journal)
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
 * Sep 2024: low-bit quantization PTQ for ImageNet classification.
+* June 2025: LLMs-PTQ research.
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
@@ -69,4 +70,4 @@ parser - optimizer - calibrator - quantizer - debugger
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>
-#传奇才刚刚开始!
+吃得苦中苦,方为人上人!
