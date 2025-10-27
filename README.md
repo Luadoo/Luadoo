@@ -23,7 +23,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * April 2025: Progressive Quantization: Enhancing Stability in Binary Neural Networks (submission to MTA journal)
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
 * Sep 2024: low-bit quantization PTQ for ImageNet classification.
-* June 2025: LLMs-PTQ research. (I am doing an internship in a Chinese company)
+* June 2025: LLMs-PTQ research. (I am doing an internship at a Shanghai AI company)
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
