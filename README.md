@@ -4,7 +4,7 @@
 
 ### Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the AJOUCVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, it was the best, as I received three Korean National Scholarships.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, it was the best, as I received three Korean National Scholarships.
 
 
 
@@ -14,7 +14,7 @@ I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou Unive
 2. Image-related tasks: Image classification, Large Language Model with quantization model.
 3. Presented at the 2024.8.25 seminar.
 
-Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huang Shan - 黄山, Zi Peng Shan - 紫蓬山, and Xiao Bie Shan - 小别山, all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching.
+Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huang Shan(黄山), Zi Peng Shan(紫蓬山), and Xiao Bie Shan(小别山), all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching.
 
 ![wo(1)](https://github.com/Luadoo/Luadoo/assets/58927660/6dca96d0-d4c3-438b-8cce-0f79247e2c27)
 
@@ -24,6 +24,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
 * Sep 2024: low-bit quantization PTQ for ImageNet classification.
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
+* 今天是人生第一次离职了!
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
@@ -63,7 +64,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 5. 量化模型部署/模型转换架构:
 parser - optimizer - calibrator - quantizer - debugger 
 
-## 7. Previous MPQ methods:
+## 7) Previous MPQ methods:
 1. Search-based: high computation cost of NAS or RL
 2. Metric-based: sub-optimal generated MPQ strategy(需要人为调控)
 3. Optimization-based: inaccurate gradient approximation
