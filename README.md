@@ -11,7 +11,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 
 ### My recent research interests include uncertainty awareness of the LLM-PTQ.
-1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal processing.
+1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
 2. Related tasks: Image classification and Large Language Model with quantization model.
 3. One presentation at the 2024.8.25 seminar.
 
