@@ -46,6 +46,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
+* Japanese (a few)
 
 ## 5) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
