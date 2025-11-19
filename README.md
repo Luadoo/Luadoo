@@ -4,16 +4,16 @@
 
 ### Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, it was the best, as I received three Korean National Scholarships.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
 
 
-Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huang Shan (黄山), Zi Peng Shan (紫蓬山), and Xiao Bie Shan (小别山), all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching.
+Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Mount Huangshan (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all located in Anhui Province. Besides, I have been to '한라산 - 汉拿山' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching.
 
 
 ### My recent research interests include uncertainty awareness of the LLM-PTQ.
 1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal processing.
-2. Image-related tasks: Image classification, Large Language Model with quantization model.
-3. Presented at the 2024.8.25 seminar.
+2. Related tasks: Image classification and Large Language Model with quantization model.
+3. One presentation at the 2024.8.25 seminar.
 
 ![wo(1)](https://github.com/Luadoo/Luadoo/assets/58927660/6dca96d0-d4c3-438b-8cce-0f79247e2c27)
 
@@ -21,7 +21,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 * April 2025: Progressive Quantization: Enhancing Stability in Binary Neural Networks (submission to MTA journal)
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
-* Sep 2024: low-bit quantization PTQ for ImageNet classification.
+* Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了!
 
@@ -38,7 +38,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Quantization in depth: https://learn.deeplearning.ai/accomplishments/e57f56f4-46d8-49c1-9910-9e5f9f9f479b
   
 ## 3) Techniques
-* C++, Python, TensorFlow(a little), PyTorch, Matrix.
+* C++, Python, PyTorch, Matrix,  TensorFlow(a little).
 * Web development, Android application, Web crawler, Reinforcement Learning, Recommendation System, QNN(quantization neural network), LLM.
 
   
@@ -51,13 +51,11 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * School Email: soark@ajou.ac.kr
 * WeChat: kyen77-88_
 * LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
-* Office: Ajou University, Paldal Hall, 913-2 room.
+* Office: Ajou University, Paldal Hall.
 * 
 ## 6) Methods:
 1. QAT: LSQ(activation quantization), DSQ, QIL, LQW, LQ-Nets, PACT, DoReFa-Net, LSQ++, PACT, MQBench, Quantization Networks,
-
 2. PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ, 
-
 3. BNN - BNN Evolution-based algorithm
 4. KD + BNN + Pruning
 5. 量化模型部署/模型转换架构:
