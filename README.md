@@ -2,7 +2,7 @@
 
 <div data-st-tgt="ee"><div jscontroller="YsfJcd" jsdata="HfR8Sd;_;A93aiw" jsaction="rcuQ6b:npT2md"><div jsname="yowaac" class="Ww4FFb x5EBlc zpLC1e gAW3sd"><div class="Y0MLFe lRe0Z" tabindex="0" role="button" aria-label="开始/停止播放选取框动画" style="align-items: center; justify-content: start; animation-duration: 25.8s;"><span class="thL3qf">🍂 hoa hoa hoa season 🍂</span></div></div></div></div>
 
-### Nice to meet you! 
+## Nice to meet you! 
 
 I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
 
@@ -10,7 +10,7 @@ I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou Unive
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching.
 
 
-### My recent research interests include uncertainty awareness of the LLM-PTQ.
+## My recent research interests include uncertainty awareness of the LLM-PTQ.
 1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
 2. Related tasks: Image classification and Large Language Model with quantization model.
 3. One presentation at the 2024.8.25 seminar.
