@@ -59,7 +59,7 @@ parser - optimizer - calibrator - quantizer - debugger
 * English Medium Level
 * Korean High Level
 * Chinese Mother tongue
-* Japanese (a few)
+* Urdu (a few)
 
 ## 7) Building Fully Connected Layers
 * School Email: soark@ajou.ac.kr
