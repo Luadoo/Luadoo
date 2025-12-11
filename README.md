@@ -62,8 +62,9 @@ parser - optimizer - calibrator - quantizer - debugger
 * Urdu (a few)
 
 ## 7) Building Fully Connected Layers
+* Lab homepage: https://sites.google.com/view/siglearnlab/member
 * School Email: soark@ajou.ac.kr
-* WeChat: kyen77-88_
+* WeChat:
 * LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
 * Office: Ajou University, Paldal Hall.
 * <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
