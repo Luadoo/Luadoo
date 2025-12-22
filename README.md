@@ -69,4 +69,4 @@ parser - optimizer - calibrator - quantizer - debugger
 * Office: Ajou University, Paldal Hall.
 * <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
-</a>吃得苦中苦,方为人上人!!!
+</a>吃得苦中苦,方为人中人!!!
