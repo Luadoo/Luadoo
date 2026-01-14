@@ -24,6 +24,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了!
+* Jan 2026: Working at Zhejiang University.
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
