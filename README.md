@@ -15,7 +15,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 2. Related tasks: Image classification and Large Language Model with a quantization model.
 3. One presentation at the 2024.8.25 seminar.
 
-![wo(1)](https://github.com/Luadoo/Luadoo/assets/58927660/6dca96d0-d4c3-438b-8cce-0f79247e2c27)
+![Uploading 卡通风格3.png…]()
+
 
 ## Updates
 
