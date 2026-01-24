@@ -24,8 +24,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
 * Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
-* 今天是人生第一次离职了!
-* Jan 2026: Working at Zhejiang University. (这个冬天有点暖和！)
+* 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
+* Jan 2026: Working at Zhejiang University. (这个冬天有点暖！)
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
