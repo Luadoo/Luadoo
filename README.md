@@ -4,7 +4,7 @@
 
 ## Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, utilizing the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
 
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching.
@@ -25,8 +25,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
-* Jan 2026: Working at Zhejiang University. (这个冬天有点暖！)
-* 中控屏项目负责人.
+* Jan 2026: Working at Zhejiang University. (这个冬天有点暖喔！)
+* 中控屏项目负责人. (Qwen3.5-35B implementation)
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
