@@ -27,6 +27,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
 * Jan 2026: Working at Zhejiang University. (这个冬天有点暖喔！)
 * 中控屏项目负责人. (Qwen3.5-35B quantization implementation)
+* I need to graduate!
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
