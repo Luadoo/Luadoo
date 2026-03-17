@@ -29,6 +29,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * 中控屏项目负责人. (Qwen3.5-35B quantization implementation)
 * I need to graduate!
 * 开始养小龙虾！
+* 笑看人生风云，何其美哉！
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
