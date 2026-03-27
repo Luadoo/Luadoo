@@ -28,8 +28,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Jan 2026: Working at Zhejiang University. (这个冬天有点暖喔！)
 * 中控屏项目负责人. (Qwen3.5-35B quantization implementation)
 * I need to graduate!
-* 开始养小龙虾-OpenClaw<img width="35" height="36" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />！
-* 笑看人生风云，何其美哉！🤣🤣
+* 开始养小龙虾-OpenClaw<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />！
+
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
@@ -75,4 +75,5 @@ parser - optimizer - calibrator - quantizer - debugger
 * Office: Ajou University, Paldal Hall.
 * <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
-</a>吃得苦中苦,方为人中人!!!
+</a>吃得苦中苦,方为人中人!!! 
+* 笑看人生风云，何其美哉！🤣🤣
