@@ -48,11 +48,12 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Web development, Android application, Web crawler, Reinforcement Learning, Recommendation System, QNN(quantization neural network), LLM.
 
 ## 4) Methods:
-1. QAT: LSQ(activation quantization), DSQ, QIL, LQW, LQ-Nets, PACT, DoReFa-Net, LSQ++, PACT, MQBench, Quantization Networks,
-2. PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ, 
-3. BNN - BNN Evolution-based algorithm
-4. KD + BNN + Pruning
-5. 量化模型部署/模型转换架构:
+1. CNN-QAT: LSQ(activation quantization), DSQ, QIL, LQW, LQ-Nets, PACT, DoReFa-Net, LSQ++, PACT, MQBench, Quantization Networks,
+2. CNN-PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ, 
+3. BNN - BNN Evolution-based algorithm -- > KD + BNN + Pruning 
+4. 
+5. LLM-PTQ: GPTQ, SmoothQuant, AWQ, QuaRot, AWQ, GPTAQ++, SPQR, QuiP, SqueezeLLM, TurboQuant, 
+6. 量化模型部署/模型转换架构:
 parser - optimizer - calibrator - quantizer - debugger 
 
 ## 5) Previous MPQ methods:
