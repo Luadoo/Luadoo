@@ -12,10 +12,10 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 ## My recent research interests include uncertainty awareness of the LLM-PTQ.
 1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
-2. Related tasks: Image classification and Large Language Model with a quantization model.
+2. Related tasks: Image classification and Large Language Model with a quantization model, On-device AI.
 3. One presentation at the 2024.8.25 seminar.
 
-<img width="266" height="266" alt="卡通风格3" src="https://github.com/user-attachments/assets/1ef14502-d10f-4467-8e1f-af169c18de7b" />
+<img width="238" height="238" alt="卡通风格3" src="https://github.com/user-attachments/assets/1ef14502-d10f-4467-8e1f-af169c18de7b" />
 
 
 ## Updates
@@ -44,13 +44,13 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Quantization in depth: https://learn.deeplearning.ai/accomplishments/e57f56f4-46d8-49c1-9910-9e5f9f9f479b
   
 ## 3) Techniques
-* C++, Python, PyTorch, Matrix,  TensorFlow(a little).
-* Web development, Android application, Web crawler, Reinforcement Learning, Recommendation System, QNN(quantization neural network), LLM.
+* Python, PyTorch, Matrix, OpenCL, Ubuntu, C++, and TensorFlow(a little).
+* Web development, Android application, Web crawler, Reinforcement Learning, Recommendation System, QNN(quantization neural network), Agent.
 
 ## 4) Methods:
 1. CNN-QAT: LSQ(activation quantization), DSQ, QIL, LQW, LQ-Nets, PACT, DoReFa-Net, LSQ++, PACT, MQBench, Quantization Networks,
 2. CNN-PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ, 
-3. BNN - BNN Evolution-based algorithm -- > KD + BNN + Pruning 
+3. CNN-BNN: BNN Evolution-based algorithm -- > KD + BNN + Pruning 
 4. 
 5. LLM-PTQ: GPTQ, SmoothQuant, AWQ, QuaRot, AWQ, GPTAQ++, SPQR, QuiP, SqueezeLLM, TurboQuant, 
 6. 量化模型部署/模型转换架构:
