@@ -25,9 +25,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
-* Jan 2026: Working at Zhejiang University. (这个冬天有点暖喔！)
-* 中控屏项目负责人. (Qwen3.5-35B quantization implementation)
-* I need to graduate!
+* Jan 2026: Working at Zhejiang. (国内坑逼真多)
+
 * 开始养小龙虾-OpenClaw<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />！
 
 
