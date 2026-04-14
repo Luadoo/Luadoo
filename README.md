@@ -25,7 +25,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
-* Jan 2026: Working at Zhejiang. (国内坑逼真多)
+* Jan 2026: Working with Zhejiang University.
 
 * 开始养小龙虾-OpenClaw<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />！
 
@@ -62,15 +62,15 @@ parser - optimizer - calibrator - quantizer - debugger
 
 
 ## 6) Languages
-* English Medium Level
-* Korean High Level
-* Chinese Mother tongue
-* Urdu (a few)
+* English: Medium Level
+* Korean: High Level
+* Chinese: Mother tongue
+* Urdu: (a few)
 
 ## 7) Building Fully Connected Layers
 * Lab homepage: https://sites.google.com/view/siglearnlab/member
 * School Email: soark@ajou.ac.kr
-* WeChat: xujie66666688888888
+* WeChat:
 * LinkedIn: https://www.linkedin.com/in/jie-xu-6a62461a1/
 * Office: Ajou University, Paldal Hall.
 * <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
