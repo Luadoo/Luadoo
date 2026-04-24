@@ -15,7 +15,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 2. Related tasks: Image classification and Large Language Model with a quantization model, On-device AI.
 3. One presentation at the 2024.8.25 seminar.
 
-<img width="256" height="238" alt="卡通风格3" src="https://github.com/user-attachments/assets/1ef14502-d10f-4467-8e1f-af169c18de7b" />
+<img width="256" height="180" alt="卡通风格3" src="https://github.com/user-attachments/assets/1ef14502-d10f-4467-8e1f-af169c18de7b" />
 
 
 ## Updates
@@ -27,7 +27,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
 * Jan 2026: Working with Zhejiang University.
 
-* 开始养小龙虾-OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />！
+* 开始养小龙虾-OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
 
 
 ## 2) Study by Coursera Course
