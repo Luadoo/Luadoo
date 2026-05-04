@@ -1,4 +1,4 @@
-# 👋👋 Hello there, I'm Jie Xu , Chinese name : 徐桀
+# 👋👋 Hello there, I'm Jie Xu
 
 <div data-st-tgt="ee"><div jscontroller="YsfJcd" jsdata="HfR8Sd;_; A93aiw" jsaction="rcuQ6b:npT2md"><div jsname="yowaac" class="Ww4FFb x5EBlc zpLC1e gAW3sd"><div class="Y0MLFe lRe0Z" tabindex="0" role="button" aria-label="开始/停止播放选取框动画" style="align-items: center; justify-content: start; animation-duration: 25.8s;"><span class="thL3qf">🍂 hoa hoa hoa season 🍂</span></div></div></div></div>
 
@@ -27,7 +27,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
 * Jan 2026: Working with Zhejiang University.
 
-* 开始养小龙虾-OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
+* 开始养小龙虾-OpenClaw<img width="10" height="12" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
 
 
 ## 2) Study by Coursera Course
