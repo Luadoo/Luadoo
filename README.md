@@ -26,7 +26,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
 * Jan 2026: Working with Zhejiang University.
-* 开始养小龙虾OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />.
+* Device OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
 
 
 ## 2) Study by Coursera Course
