@@ -16,7 +16,9 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 3. One presentation at the 2024.8.25 seminar.
 
 
-<img width="236" height="177" alt="image" src="https://github.com/user-attachments/assets/98a91cc2-e5a1-4704-9212-dfc2939a7079" />
+<p align="center">
+  <img width="236" height="177" alt="image" src="https://github.com/user-attachments/assets/98a91cc2-e5a1-4704-9212-dfc2939a7079" />
+</p>
 
 
 ## Updates
