@@ -15,7 +15,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 2. Related tasks: Image classification and Large Language Model with a quantization model, On-device AI.
 3. One presentation at the 2024.8.25 seminar.
 
-<img width="256" height="180" alt="卡通风格3" src="https://github.com/user-attachments/assets/1ef14502-d10f-4467-8e1f-af169c18de7b" />
+
+<img width="236" height="177" alt="image" src="https://github.com/user-attachments/assets/98a91cc2-e5a1-4704-9212-dfc2939a7079" />
 
 
 ## Updates
