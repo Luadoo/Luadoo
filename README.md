@@ -31,7 +31,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * Jan 2026: Working with Zhejiang University.
 
 * End-device OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
-* H800 server is coming!
+* Working in Shanghai.
 
 
 ## 2) Study by Coursera Course
