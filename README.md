@@ -30,7 +30,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
 * Jan 2026: Working with Zhejiang University.
 
-* End-device OpenClaw<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
+* End-device OpenClaw<img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
 * Working in Shanghai.
 
 
@@ -81,4 +81,5 @@ parser - optimizer - calibrator - quantizer - debugger
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>吃得苦中苦,方为人中人!!! 
 * 笑看人生风云，何其美哉！🤣🤣
-* 不相信有我不能写的代码,不相信有我不能克服困难.
+* 不相信有我不能写的代码,不相信有我不能克服的困难.
+* 한국 화이팅!
