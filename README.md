@@ -81,5 +81,4 @@ parser - optimizer - calibrator - quantizer - debugger
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>吃得苦中苦,方为人中人!!! 
 * 笑看人生风云，何其美哉！🤣🤣
-* 不相信有我不能写的代码,不相信有我不能克服的困难.
-* 한국 화이팅!
+ 
