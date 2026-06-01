@@ -4,14 +4,14 @@
 
 ## Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. study, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang in the Ajou CVPR Lab (He moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
 
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching. 时间是最好的礼物！
 
 
 ## My recent research interests include uncertainty awareness of the LLM-PTQ.
-1. Model Compression/Acceleration:  Information theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
+1. Model Compression/Acceleration:  Information-theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
 2. Related tasks: Image classification and Large Language Model with a quantization model, On-device AI.
 3. One presentation at the 2024.8.25 seminar.
 
@@ -25,8 +25,8 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 * April 2025: Progressive Quantization: Enhancing Stability in Binary Neural Networks (submission to MTA journal)
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
-* Sep 2024: low-bit quantization PTQ for ImageNet classification. (Going on)
-* June 2025: LLMs-PTQ research. (I am doing an internship at an AI company)
+* Sep 2024: Low-bit quantization PTQ for ImageNet classification. (Going on)
+* June 2025: LLM-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
 * Jan 2026: Working with Zhejiang University.
 
@@ -35,7 +35,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 
 ## 2) Study by Coursera Course
-* Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes BensoudaMourri
+* Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes Bensouda Mourri
 * Machine Learning - - Andrew Ng
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization - Andrew Ng
 * Fundamentals of Reinforcement Learning - - Martha White, Adam White
@@ -81,4 +81,5 @@ parser - optimizer - calibrator - quantizer - debugger
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>吃得苦中苦,方为人中人!!! 
 * 笑看人生风云，何其美哉！🤣🤣
+* 说话形态 + 行为意识 = person
  
