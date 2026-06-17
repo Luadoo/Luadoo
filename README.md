@@ -4,7 +4,7 @@
 
 ## Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University, with respect). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
 
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all of which are located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching. 时间是最好的礼物！
@@ -27,11 +27,11 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
 * Sep 2024: Low-bit quantization PTQ for ImageNet classification. (Going on)
 * June 2025: LLM-PTQ research. (I am doing an internship at an AI company)
-* 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo.)
-* Jan 2026: Working with Zhejiang University.
+* 今天是人生第一次离职了! (He worked at the Eastern Institute of Technology in Ningbo. I am thankful to Professor Shen)
+* Jan 2026: Working with Zhejiang University. (I am thankful to Professor Huang)
 
 * End-device OpenClaw<img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
-* Working in Shanghai.
+* Working in Shanghai. (I am thankful to Dr.Cai)
 
 
 ## 2) Study by Coursera Course
