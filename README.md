@@ -21,9 +21,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
   <img width="236" height="177" alt="image" src="https://github.com/user-attachments/assets/98a91cc2-e5a1-4704-9212-dfc2939a7079" />
 </p>
 
-<p align="center">
-  <img src="./trae-animated.svg" alt="TRAE" width="600" />
-</p>
+
 
 ## Updates
 
@@ -87,54 +85,7 @@ parser - optimizer - calibrator - quantizer - debugger
 </a>吃得苦中苦,方为人中人!!! 
 * 笑看人生风云，何其美哉！🤣🤣
 * 说话形态 + 行为意识 = person
-![Uploading <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ff88;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00ccff;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <style>
-    .text {
-      animation: rotate 3s ease-in-out infinite;
-      transform-origin: center;
-    }
-    
-    @keyframes rotate {
-      0%, 100% { 
-        transform: rotateY(0deg);
-      }
-      50% { 
-        transform: rotateY(180deg);
-      }
-    }
-    
-    .glow {
-      animation: glow 2s ease-in-out infinite;
-    }
-    
-    @keyframes glow {
-      0%, 100% {
-        filter: drop-shadow(0 0 5px rgba(0, 255, 136, 0.5));
-      }
-      50% {
-        filter: drop-shadow(0 0 20px rgba(0, 255, 136, 0.8));
-      }
-    }
-  </style>
-  
-  <text x="50%" y="50%" 
-        text-anchor="middle" 
-        dominant-baseline="middle" 
-        class="text glow" 
-        font-size="100" 
-        font-weight="bold" 
-        fill="url(#gradient)"
-        font-family="Arial, sans-serif">
-    TRAE
-  </text>
-</svg>trae-animated.svg…]()
+
 
   
   <text x="50" y="120" class="letter" letter-spacing="10">
