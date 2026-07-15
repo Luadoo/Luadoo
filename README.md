@@ -7,7 +7,8 @@
 I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University, with respect). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
 
 
-Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all of which are located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching. 时间是最好的礼物！
+Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山<img width="800" height="200" alt="trae-animated" src="https://github.com/user-attachments/assets/18c7f544-d687-42c5-8277-95d67eec7845" />
+), all of which are located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like Chinese animation binge-watching. 时间是最好的礼物！
 
 
 ## My recent research interests include uncertainty awareness of the LLM-PTQ.
@@ -20,6 +21,9 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
   <img width="236" height="177" alt="image" src="https://github.com/user-attachments/assets/98a91cc2-e5a1-4704-9212-dfc2939a7079" />
 </p>
 
+<p align="center">
+  <img src="./trae-animated.svg" alt="TRAE" width="600" />
+</p>
 
 ## Updates
 
@@ -83,4 +87,38 @@ parser - optimizer - calibrator - quantizer - debugger
 </a>吃得苦中苦,方为人中人!!! 
 * 笑看人生风云，何其美哉！🤣🤣
 * 说话形态 + 行为意识 = person
- 
+ <img width="800" height="200" alt="trae-animated" src="https://github.com/user-attachments/assets/3c973d6a-958e-40bf-9cd4-1eccd6bc6831" />
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .letter {
+      animation: float 3s ease-in-out infinite;
+      fill: #00ff88;
+      font-size: 100px;
+      font-weight: bold;
+      font-family: 'Arial Black', sans-serif;
+    }
+    
+    .letter:nth-child(1) { animation-delay: 0s; }
+    .letter:nth-child(2) { animation-delay: 0.1s; }
+    .letter:nth-child(3) { animation-delay: 0.2s; }
+    .letter:nth-child(4) { animation-delay: 0.3s; }
+    
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0) rotate(0deg);
+        filter: drop-shadow(0 0 10px rgba(0, 255, 136, 0.6));
+      }
+      50% {
+        transform: translateY(-20px) rotate(5deg);
+        filter: drop-shadow(0 0 30px rgba(0, 255, 136, 1));
+      }
+    }
+  </style>
+  
+  <text x="50" y="120" class="letter" letter-spacing="10">
+    <tspan>T</tspan>
+    <tspan>R</tspan>
+    <tspan>A</tspan>
+    <tspan>E</tspan>
+  </text>
+</svg>
