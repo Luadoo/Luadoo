@@ -12,7 +12,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 ## My recent research interests include uncertainty awareness of the LLM-PTQ.
 1. Model Compression/Acceleration:  Information-theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
-2. Related tasks: Image classification and Large Language Models with quantization model, On-device AI.
+2. Related tasks: Image classification and Large Language Models with a quantization model, On-device AI.
 3. One presentation at the 2024.8.25 seminar.
 
 
@@ -32,6 +32,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 * End-device OpenClaw<img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
 * Working in Shanghai. (I am thankful to Dr.Cai)
+* Successful in compressing the model of Qwen3.5-35B-A3B and 27B or Qwen3.6 models.
 
 
 ## 2) Study by Coursera Course
