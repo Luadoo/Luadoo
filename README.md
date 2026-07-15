@@ -1,4 +1,4 @@
-<img width="800" height="200" alt="trae-animated" src="https://github.com/user-attachments/assets/5d5292fa-289c-43b0-9274-e749e6bc74f1" /># 👋👋 Hello there, I'm Jie Xu
+# 👋👋 Hello there, I'm Jie Xu
 
 <div data-st-tgt="ee"><div jscontroller="YsfJcd" jsdata="HfR8Sd;_; A93aiw" jsaction="rcuQ6b:npT2md"><div jsname="yowaac" class="Ww4FFb x5EBlc zpLC1e gAW3sd"><div class="Y0MLFe lRe0Z" tabindex="0" role="button" aria-label="开始/停止播放选取框动画" style="align-items: center; justify-content: start; animation-duration: 25.8s;"><span class="thL3qf">🍂 hoa hoa hoa season 🍂</span></div></div></div></div>
 
