@@ -1,4 +1,4 @@
-# 👋👋 Hello there, I'm Jie Xu
+<img width="800" height="200" alt="trae-animated" src="https://github.com/user-attachments/assets/5d5292fa-289c-43b0-9274-e749e6bc74f1" /># 👋👋 Hello there, I'm Jie Xu
 
 <div data-st-tgt="ee"><div jscontroller="YsfJcd" jsdata="HfR8Sd;_; A93aiw" jsaction="rcuQ6b:npT2md"><div jsname="yowaac" class="Ww4FFb x5EBlc zpLC1e gAW3sd"><div class="Y0MLFe lRe0Z" tabindex="0" role="button" aria-label="开始/停止播放选取框动画" style="align-items: center; justify-content: start; animation-duration: 25.8s;"><span class="thL3qf">🍂 hoa hoa hoa season 🍂</span></div></div></div></div>
 
@@ -87,33 +87,55 @@ parser - optimizer - calibrator - quantizer - debugger
 </a>吃得苦中苦,方为人中人!!! 
 * 笑看人生风云，何其美哉！🤣🤣
 * 说话形态 + 行为意识 = person
- <img width="800" height="200" alt="trae-animated" src="https://github.com/user-attachments/assets/3c973d6a-958e-40bf-9cd4-1eccd6bc6831" />
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+![Uploading <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff88;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00ccff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
   <style>
-    .letter {
-      animation: float 3s ease-in-out infinite;
-      fill: #00ff88;
-      font-size: 100px;
-      font-weight: bold;
-      font-family: 'Arial Black', sans-serif;
+    .text {
+      animation: rotate 3s ease-in-out infinite;
+      transform-origin: center;
     }
     
-    .letter:nth-child(1) { animation-delay: 0s; }
-    .letter:nth-child(2) { animation-delay: 0.1s; }
-    .letter:nth-child(3) { animation-delay: 0.2s; }
-    .letter:nth-child(4) { animation-delay: 0.3s; }
+    @keyframes rotate {
+      0%, 100% { 
+        transform: rotateY(0deg);
+      }
+      50% { 
+        transform: rotateY(180deg);
+      }
+    }
     
-    @keyframes float {
+    .glow {
+      animation: glow 2s ease-in-out infinite;
+    }
+    
+    @keyframes glow {
       0%, 100% {
-        transform: translateY(0) rotate(0deg);
-        filter: drop-shadow(0 0 10px rgba(0, 255, 136, 0.6));
+        filter: drop-shadow(0 0 5px rgba(0, 255, 136, 0.5));
       }
       50% {
-        transform: translateY(-20px) rotate(5deg);
-        filter: drop-shadow(0 0 30px rgba(0, 255, 136, 1));
+        filter: drop-shadow(0 0 20px rgba(0, 255, 136, 0.8));
       }
     }
   </style>
+  
+  <text x="50%" y="50%" 
+        text-anchor="middle" 
+        dominant-baseline="middle" 
+        class="text glow" 
+        font-size="100" 
+        font-weight="bold" 
+        fill="url(#gradient)"
+        font-family="Arial, sans-serif">
+    TRAE
+  </text>
+</svg>trae-animated.svg…]()
+
   
   <text x="50" y="120" class="letter" letter-spacing="10">
     <tspan>T</tspan>
