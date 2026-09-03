@@ -35,6 +35,7 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * End-device OpenClaw<img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/f445b36f-608b-48bd-8ff7-c134daf7e5cf" />
 * Working in Shanghai. (I am thankful to Dr.Cai)
 * Successful in compressing the models of Qwen3.5-35B-A3B and 27B or Qwen3.6 models in a medical dataset.
+* Follow up on quantization of Qwen3.8 or a new one!
 
 
 ## 2) Study by Coursera Course
@@ -63,7 +64,7 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 parser - optimizer - calibrator - quantizer - debugger 
 
 ## 5) Previous MPQ methods:
-1. Search-based: high computation cost of NAS or RL
+1. Search-based: high computational cost of NAS or RL
 2. Metric-based: sub-optimal generated MPQ strategy(需要人为调控)
 3. Optimization-based: inaccurate gradient approximation
 
