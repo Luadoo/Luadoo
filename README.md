@@ -24,9 +24,10 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 
 ## Updates
 
-* April 2025: Progressive Quantization: Enhancing Stability in Binary Neural Networks (submission to MTA journal)
+* April 2025: Adaptive Multi-bit Progressive Quantization for
+Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * May 2024: Starting to learn the diffusion model & quantization model. (3 months)
-* Sep 2024: Low-bit quantization PTQ for ImageNet classification. (Going on)
+* Sep 2024: Low-bit quantization PTQ for ImageNet classification. (Ongoing)
 * June 2025: LLM-PTQ research. (I am doing an internship at an AI company)
 * 今天是人生第一次离职！ (I worked at the Eastern Institute of Technology in Ningbo. I am thankful to Professor Shen)
 * Jan 2026: Working with Zhejiang University. (I am thankful to Professor Huang)
@@ -87,7 +88,7 @@ parser - optimizer - calibrator - quantizer - debugger
 * 说话形态 + 行为意识 = person
 
   
-  <text x="50" y="120" class="letter" letter-spacing="10">
+  <text x="50" y="50" class="letter" letter-spacing="10">
     <tspan>T</tspan>
     <tspan>R</tspan>
     <tspan>A</tspan>
