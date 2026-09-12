@@ -4,7 +4,7 @@
 
 ## Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University, with respect). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it the best time.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University, with respect). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it a great time.
 
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all of which are located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like binge-watching Chinese animation. 时间是最好的礼物！
@@ -56,7 +56,7 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 
 ## 4) Methods:
 1. CNN-QAT: LSQ(activation quantization), DSQ, QIL, LQW, LQ-Nets, PACT, DoReFa-Net, LSQ++, PACT, MQBench, Quantization Networks
-2. CNN-PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ, 
+2. CNN-PTQ: RAPQ, ACIQ, LAPQ, INQ, AdaRound(weight quantization), BRECQ(both quantization with asymmetric), QDrop, Mr.BiO(both quantization with symmetric), PD-Quant, MRECG, EMA BRECQ++, NWQ 
 3. CNN-BNN: BNN Evolution-based algorithm -- > KD + BNN + Pruning 
 4. 
 5. LLM-PTQ: GPTQ, SmoothQuant, AWQ, QuaRot, AWQ, GPTAQ++, SPQR, QuiP, SqueezeLLM, TurboQuant 
@@ -87,13 +87,4 @@ parser - optimizer - calibrator - quantizer - debugger
 * 吃得苦中苦,方为人中人！ 
 * 笑看人生风云，何其美哉！🤣🤣
 * 说话形态 + 行为意识 = person
-
-  
-  <text x="50" y="50" class="letter" letter-spacing="10">
-    <tspan>T</tspan>
-    <tspan>R</tspan>
-    <tspan>A</tspan>
-    <tspan>E</tspan>
-  </text>
-</svg>
 * 大能者居之，无能者拒之！ 原来如此哦!
