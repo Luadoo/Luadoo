@@ -14,8 +14,7 @@ Also, I am fond of mountaineering 🗻 and photography 📸. I have visited seve
 1. Model Compression/Acceleration:  Information-theoretic learning, Neural Network Pruning, Low-rank Approximation, Knowledge Distillation, Binary Neural Networks, and Signal Processing.
 2. Related tasks: Image classification and Large Language Models with a quantization model, On-device AI.
 3. One presentation at the 2024.8.25 seminar.
-## Attention evolution
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/c96c79b5-b3ec-4972-a2ec-43e8106f04c0" />
+
 
 
 <p align="center">
@@ -39,6 +38,8 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * Successful in compressing the models of Qwen3.5-35B-A3B and 27B or Qwen3.6 models in a medical dataset.
 * Follow up on quantization of Qwen3.8 or a new one!
 
+## Attention evolution
+<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/c96c79b5-b3ec-4972-a2ec-43e8106f04c0" />
 
 ## 2) Study by Coursera Course
 * Neural Networks and Deep Learning - Andrew Ng, Kian Katanforoosh, Younes Bensouda Mourri
