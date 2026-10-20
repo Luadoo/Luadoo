@@ -82,7 +82,7 @@ parser - optimizer - calibrator - quantizer - debugger
 * Lab homepage: https://sites.google.com/view/siglearnlab/member
 * School Email: soark@ajou.ac.kr
 * Office: Ajou University, Paldal Hall.
-* [![Profile Views](https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic)](https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge)
+* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuadoo&count_bg=%234C1D95&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=Luadoo&color=blue&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Luadoo&color=green&style=plastic" alt="Profile Views" style="max-width: 100%;">
 </a>
