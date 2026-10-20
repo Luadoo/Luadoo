@@ -89,4 +89,4 @@ parser - optimizer - calibrator - quantizer - debugger
 * 吃得苦中苦,方为人中人！ 
 * 笑看人生风云，何其美哉！🤣🤣
 * 说话形态 + 行为意识 = person
-* 大能者居之，无能者拒之！ 原来如此哦!
+* 大能者居之，无能者拒之！ 原来如此!
