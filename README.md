@@ -37,6 +37,7 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * Working in Shanghai. (I am thankful to Dr.Cai)
 * Successful in compressing the models of Qwen3.5-35B-A3B and 27B or Qwen3.6 models in a medical dataset.
 * Follow up on quantization of Qwen3.8 or a new one!
+* Successfully deployed DeepSeek-V4-Flash-0731-w8a8 for inference.
 
 ## Attention evolution
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/c96c79b5-b3ec-4972-a2ec-43e8106f04c0" />
