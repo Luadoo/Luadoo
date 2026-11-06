@@ -4,7 +4,7 @@
 
 ## Nice to meet you! 
 
-I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University, with respect). My research interests during my Ph.D. studies include neural network quantization and knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D. studies, I obtained my B.E. degree in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it a great time.
+I am a Chinese student pursuing a Ph.D. in Artificial Intelligence at Ajou University in Korea. Since September 2021, I have been working under the supervision of Prof. Wonjun Hwang at the Ajou CVPR Lab (he has since moved to Korea University, with respect). During my Ph.D., my research interests include neural network quantization, knowledge distillation, and the use of the Information Theoretic Learning approach for image analysis. Before my Ph.D., I earned my B.E. in Telecommunications and an M.Sc. in Computer Engineering from Jeju National University. During my undergraduate studies, I received three Korean National Scholarships, which made it a great time.
 
 
 Also, I am fond of mountaineering 🗻 and photography 📸. I have visited several mountains in my hometown, including Huangshan Mountain (黄山), Zipeng Mountain (紫蓬山), and Xiaobie Mountain (小别山), all of which are located in Anhui Province. Besides, I have been to '한라산백록담 - 汉拿山白鹿潭' three times on Jeju Island in South Korea. I also like binge-watching Chinese animation. 时间是最好的礼物！
@@ -37,7 +37,7 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * Working in Shanghai. (I am thankful to Dr.Cai)
 * Successful in compressing the models of Qwen3.5-35B-A3B and 27B or Qwen3.6 models in a medical dataset.
 * Follow up on quantization of Qwen3.8 or a new one!
-* Successfully deployed DeepSeek-V4-Flash-0731-w8a8 for inference.
+* Successfully deployed DeepSeek-V4-Flash-0731-w8a8 for inference. <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/92002d58-2cba-47a1-bfaa-14aa01c67389" />
 
 ## Attention evolution
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/c96c79b5-b3ec-4972-a2ec-43e8106f04c0" />
@@ -53,7 +53,7 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * Attention on 2024-WAIC technique speech
 * Learned Sensetime OpenPPL
 * Quantization in depth: https://learn.deeplearning.ai/accomplishments/e57f56f4-46d8-49c1-9910-9e5f9f9f479b
-* <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/92002d58-2cba-47a1-bfaa-14aa01c67389" />
+
 
   
 ## 3) Techniques
