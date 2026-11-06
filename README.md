@@ -53,6 +53,8 @@ Stable Training of Binary Neural Networks (Accepted to MTA journal)
 * Attention on 2024-WAIC technique speech
 * Learned Sensetime OpenPPL
 * Quantization in depth: https://learn.deeplearning.ai/accomplishments/e57f56f4-46d8-49c1-9910-9e5f9f9f479b
+* <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/92002d58-2cba-47a1-bfaa-14aa01c67389" />
+
   
 ## 3) Techniques
 * Python, PyTorch, Matrix, OpenCL, Ubuntu, C++, and TensorFlow(a little).
